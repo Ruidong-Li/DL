@@ -1,3 +1,3 @@
 # DL
 
-![]('cheat-sheet.png')
+![]('https://github.com/Ruidong-Li/DL/blob/master/cheat-sheet.png')
